@@ -180,8 +180,14 @@ margin-top: 3em;
     font-size: large;
   }
   .customer-bg{
-    height: 45vh;;
+    height: 50vh;;
     padding: 0 6%;
+  }
+}
+@media screen and (max-width: 1040px){
+  .icon{
+    margin: 0 5px;
+    font-size: large;
   }
 }
 @media  screen and (max-width:550px) {
@@ -200,6 +206,7 @@ margin-top: 3em;
   .sub-container{
     width: 70%;
   }
+
 }
 
 /* h1::after{
