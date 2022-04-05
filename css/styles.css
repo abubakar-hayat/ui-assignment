@@ -94,7 +94,7 @@ margin-top: 3em;
 }
 .customer-bg{
   background: linear-gradient(to right,rgb(105,145,251), rgb(209,151,229));
-  height: 60vh;
+  height: 70vh;
   text-align: center;
   padding: 0 15%;
   /* padding: 6% 0; */
@@ -180,7 +180,6 @@ margin-top: 3em;
     font-size: large;
   }
   .customer-bg{
-    height: 50vh;;
     padding: 0 6%;
   }
 }
@@ -195,7 +194,7 @@ margin-top: 3em;
     font-size: small;
   }
   .customer-bg{
-    height: 50vh;;
+    height: 60vh;
     padding: 0 2%;
   }
 }
@@ -208,13 +207,3 @@ margin-top: 3em;
   }
 
 }
-
-/* h1::after{
-  content:"";
-  background: rgb(255,202,61);
-  position: absolute;
-  top:30%;
-  left: 40%;
-  height: 7px;
-  width: 20%;
-} */
